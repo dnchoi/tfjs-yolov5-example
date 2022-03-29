@@ -2,12 +2,12 @@
   "main.css": "/tfjs-yolov5-example/static/css/main.a4e57223.chunk.css",
   "main.js": "/tfjs-yolov5-example/static/js/main.d10ee35c.chunk.js",
   "main.js.map": "/tfjs-yolov5-example/static/js/main.d10ee35c.chunk.js.map",
-  "static/js/1.e0b136aa.chunk.js": "/tfjs-yolov5-example/static/js/1.e0b136aa.chunk.js",
-  "static/js/1.e0b136aa.chunk.js.map": "/tfjs-yolov5-example/static/js/1.e0b136aa.chunk.js.map",
+  "static/js/1.4240beb2.chunk.js": "/tfjs-yolov5-example/static/js/1.4240beb2.chunk.js",
+  "static/js/1.4240beb2.chunk.js.map": "/tfjs-yolov5-example/static/js/1.4240beb2.chunk.js.map",
   "runtime~main.js": "/tfjs-yolov5-example/static/js/runtime~main.d686f760.js",
   "runtime~main.js.map": "/tfjs-yolov5-example/static/js/runtime~main.d686f760.js.map",
   "static/css/main.a4e57223.chunk.css.map": "/tfjs-yolov5-example/static/css/main.a4e57223.chunk.css.map",
   "index.html": "/tfjs-yolov5-example/index.html",
-  "precache-manifest.7fd9db4110292e9031368b67e6d1a8c6.js": "/tfjs-yolov5-example/precache-manifest.7fd9db4110292e9031368b67e6d1a8c6.js",
+  "precache-manifest.e2c25db599aabc070652869d6e30d13d.js": "/tfjs-yolov5-example/precache-manifest.e2c25db599aabc070652869d6e30d13d.js",
   "service-worker.js": "/tfjs-yolov5-example/service-worker.js"
 }
