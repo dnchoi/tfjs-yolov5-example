@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tfjs-yolov5-example/static/css/main.e9ee4296.css",
-    "main.js": "/tfjs-yolov5-example/static/js/main.f259cefc.js",
+    "main.js": "/tfjs-yolov5-example/static/js/main.13d1f446.js",
     "index.html": "/tfjs-yolov5-example/index.html",
     "main.e9ee4296.css.map": "/tfjs-yolov5-example/static/css/main.e9ee4296.css.map",
-    "main.f259cefc.js.map": "/tfjs-yolov5-example/static/js/main.f259cefc.js.map"
+    "main.13d1f446.js.map": "/tfjs-yolov5-example/static/js/main.13d1f446.js.map"
   },
   "entrypoints": [
     "static/css/main.e9ee4296.css",
-    "static/js/main.f259cefc.js"
+    "static/js/main.13d1f446.js"
   ]
 }
